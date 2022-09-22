@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-21T22:54:54 IST" name="Default suite" finished-at="2022-09-21T22:58:15 IST" duration-ms="200842">
+    <groups>
+    </groups>
+    <test started-at="2022-09-21T22:54:54 IST" name="Default test" finished-at="2022-09-21T22:58:15 IST" duration-ms="200842">
+      <class name="subscribe_2022.validateSubscPackg">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:54:54 IST" name="setUp" finished-at="2022-09-21T22:56:16 IST" duration-ms="81776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="BahrainSubscription()[pri:1, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:56:16 IST" name="BahrainSubscription" description="TEST CASE to assert BAHRAIN subscription package type, amount, currency and period" finished-at="2022-09-21T22:56:22 IST" duration-ms="6248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BahrainSubscription -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:56:22 IST" name="tearDown" finished-at="2022-09-21T22:56:27 IST" duration-ms="4749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:56:27 IST" name="setUp" finished-at="2022-09-21T22:57:03 IST" duration-ms="35659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="KSASubscription()[pri:1, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:57:03 IST" name="KSASubscription" description="TEST CASE to assert SAUDI ARABIA subscription package type, amount, currency and period" finished-at="2022-09-21T22:57:06 IST" duration-ms="3586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KSASubscription -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:57:06 IST" name="tearDown" finished-at="2022-09-21T22:57:07 IST" duration-ms="888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:57:07 IST" name="setUp" finished-at="2022-09-21T22:57:28 IST" duration-ms="21211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="KuwaitSubscription()[pri:1, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:57:28 IST" name="KuwaitSubscription" description="TEST CASE to assert KUWAIT subscription package type, amount, currency and period" finished-at="2022-09-21T22:57:33 IST" duration-ms="4288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KuwaitSubscription -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:57:33 IST" name="tearDown" finished-at="2022-09-21T22:57:33 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:57:33 IST" name="setUp" finished-at="2022-09-21T22:57:54 IST" duration-ms="20772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTitle()[pri:2, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:57:54 IST" name="verifyTitle" description="TEST CASE to verify the valid homepage, Assert page title" finished-at="2022-09-21T22:57:54 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:57:54 IST" name="tearDown" finished-at="2022-09-21T22:57:55 IST" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:57:55 IST" name="setUp" finished-at="2022-09-21T22:58:14 IST" duration-ms="19734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogo()[pri:3, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:58:14 IST" name="verifyLogo" description="TEST CASE to verify the valid stc tv logo appearance" finished-at="2022-09-21T22:58:15 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:subscribe_2022.validateSubscPackg@4567f35d]" started-at="2022-09-21T22:58:15 IST" name="tearDown" finished-at="2022-09-21T22:58:15 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- subscribe_2022.validateSubscPackg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
